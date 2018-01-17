@@ -10,7 +10,7 @@
     } else { ?>
         <!DOCTYPE html>
         <html lang="en">
-            <?php bsHead("Esborrat"); ?>
+            <?php bsHead("Deleted"); ?>
             <body>
                 <div class="alert alert-danger" role="alert">
                     <h3>Error esborrant incidència</h3>
